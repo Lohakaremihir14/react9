@@ -1,0 +1,6 @@
+Intro
+basics of jsx,components,props,state
+components
+  -- functional
+  -- class
+  -- life cycle methods
