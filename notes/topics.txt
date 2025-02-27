@@ -4,3 +4,9 @@ components
   -- functional
   -- class
   -- life cycle methods
+props
+  -- basic props(paren to child)
+  -- default props
+  -- child to parent
+  -- prop drilling
+state
