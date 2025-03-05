@@ -5,8 +5,14 @@ components
   -- class
   -- life cycle methods
 props
-  -- basic props(paren to child)
+  -- basic props(parent to child)
   -- default props
   -- child to parent
   -- prop drilling
 state
+  -- useState
+  -- multiple states
+  --event object
+useEffect 
+  -- without array, with  empty array, dependencies
+  -- fetch
