@@ -7,7 +7,6 @@ function App ()
 {
   const [count, setCount] = useState(10);
   const [name,setName]=useState('')
-  console.log
   return (
 		<myContext.Provider value={{count,name}}>
 			<div>

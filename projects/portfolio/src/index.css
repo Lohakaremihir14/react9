@@ -1,0 +1,4 @@
+@import "tailwindcss";
+*{
+    transition: all 1s ease;
+}

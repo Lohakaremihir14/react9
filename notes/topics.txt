@@ -16,3 +16,11 @@ state
 useEffect 
   -- without array, with  empty array, dependencies
   -- fetch
+Context API
+  --  prop drilling,
+  -- createContext, Provider, useContext
+Routing
+   -- BrowserRouter,Link,Routes,Routes
+   --nested route, useNavigate
+   -- lazy loading, 404 page
+  
